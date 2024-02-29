@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "typescript": "^5.3.3"
+  },
+  "name": "typescript",
+  "description": "Typescript Learning",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "scripts": {
+    "start": "lite-server --baseDir='./day01'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vignesh",
+  "license": "ISC"
+}
